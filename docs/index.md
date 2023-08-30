@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 阿心同学
+heroText: 全栈工匠
 tagline: 不忘初心 砥砺前行
 # actionText: 立刻进入 →
 # actionLink: /web/
