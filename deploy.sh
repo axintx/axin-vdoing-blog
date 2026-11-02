@@ -11,7 +11,7 @@ cd docs/.vuepress/dist
     
 # deploy to github pages
 # 如果是发布到自定义域名
-# echo 'wls.ink' > CNAME
+# echo 'itechyou.icu' > CNAME
 
 if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'
